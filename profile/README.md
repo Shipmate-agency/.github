@@ -15,7 +15,7 @@
 
 **Shipmate** ([shipmate.agency](https://shipmate.agency)) finds security holes in web applications built fast with **Cursor, Lovable, Bolt, v0, Replit, Next.js, Supabase, and Stripe**, then ships the fixes as **one clean pull request** that your team reviews and merges. Every finding is verified by a human researcher — not dumped from an automated scanner.
 
-Everything in this GitHub organization is **free, open source (MIT), and runs locally** with zero telemetry. Use our CLI, MCP server, SQL audit queries, and compliance templates before your next launch, enterprise security questionnaire, or SaaS acquisition due diligence.
+The tool and template repositories in this organization are **free and open source (MIT)**. The CLI and MCP server run locally and send no telemetry; the CLI only makes network requests in its URL and Supabase modes. Use our CLI, MCP server, SQL audit queries, and compliance templates before your next launch, enterprise security questionnaire, or SaaS acquisition due diligence.
 
 ---
 
@@ -50,5 +50,5 @@ Static scanners catch known patterns, not business-logic IDOR, multi-tenant auth
 | **Pentest + Letter** | **$2,950 once** | Everything in Lockdown + hands-on penetration test + dated 1-page attestation letter ([View sample](https://shipmate.agency/sample-letter)) |
 
 - **Testing requires written owner permission** — nothing destructive is run on live customer data.
-- **Agencies, SOC 2 consultants & micro-VCs:** White-label handoffs and 20% referral partnerships at [shipmate.agency/partners](https://shipmate.agency/partners).
+- **Partners:** white-label reviews for agencies, 20% of each referred job for SOC 2 consultants and others who make intros, and a free founder perk investors and accelerators can list. Details at [shipmate.agency/partners](https://shipmate.agency/partners).
 - **Contact:** [hello@shipmate.agency](mailto:hello@shipmate.agency) · [shipmate.agency](https://shipmate.agency)
